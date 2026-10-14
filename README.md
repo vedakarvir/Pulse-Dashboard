@@ -1,2 +1,2 @@
 # Pulse-Dashboard
-Angular analytics dashboard
+Angular analytics dashboard 
